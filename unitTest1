@@ -7,6 +7,7 @@ public class Sample {
     	Sample addition = new Sample();
     	addition.add(10, 5);
     	System.out.println("---------Update 1---------");
+    	System.out.println("---------Update 3---------");
     	
     }
 
